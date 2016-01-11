@@ -1,7 +1,7 @@
 name: jensenrivera
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.24092
+layout_spectrum: 0.75302
+typography_spectrum: 0.48776
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.06212078966200352
-  lightness: 0.32240937277674675
-  saturation: 0.2865028721280396
-  rhythmicContrast: 0.2865577118936926
+  brandStrength: 0.0625
+  lightness: 0.3125
+  saturation: 0.3125
+  rhythmicContrast: 0.25
 purpose: []
