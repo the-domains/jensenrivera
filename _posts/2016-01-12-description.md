@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Where you can find information about Jensen Rivera
-datePublished: '2016-01-12T06:15:25.926Z'
-dateModified: '2016-01-12T06:15:23.454Z'
+datePublished: '2016-01-12T06:15:32.818Z'
+dateModified: '2016-01-12T06:15:27.272Z'
 title: About
 author: []
 sourcePath: _posts/2016-01-12-description.md
