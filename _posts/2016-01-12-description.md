@@ -3,30 +3,34 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Where you can find information about Jensen Rivera
-datePublished: '2016-01-12T05:57:49.864Z'
-dateModified: '2016-01-12T05:57:38.992Z'
+datePublished: '2016-01-12T06:03:18.539Z'
+dateModified: '2016-01-12T06:03:12.518Z'
 title: Description
 author: []
+sourcePath: _posts/2016-01-12-description.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-12-description.md
-published: true
 url: description/index.html
 _type: Article
 
 ---
 # Description
 
+# 
+
 Software Engineer, Father and Husband living in Austin Texas.  Currently working in the video game industry on a new project with [QC Games][0].
 
 # Social Profiles
+
+# 
 
 [https://www.facebook.com/jensen.rivera][1]  
 [https://www.flickr.com/photos/jensenrivera][2]  
