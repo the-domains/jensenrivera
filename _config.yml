@@ -2,6 +2,7 @@ name: jensenrivera
 favicon: null
 layout_spectrum: 0.75302
 typography_spectrum: 0.48776
+title: null
 cta:
   domain: null
   bucket: null
