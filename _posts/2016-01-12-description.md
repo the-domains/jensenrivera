@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: Where you can find information about Jensen Rivera
-datePublished: '2016-01-12T06:03:18.539Z'
-dateModified: '2016-01-12T06:03:12.518Z'
-title: Description
+datePublished: '2016-01-12T06:05:01.432Z'
+dateModified: '2016-01-12T06:04:53.070Z'
+title: About
 author: []
 sourcePath: _posts/2016-01-12-description.md
 published: true
@@ -22,7 +22,7 @@ url: description/index.html
 _type: Article
 
 ---
-# Description
+# About
 
 # 
 
