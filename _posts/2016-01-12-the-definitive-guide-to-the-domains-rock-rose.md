@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://austin.eater.com/2016/1/11/10733708/austin-restaurant-guide-domain-rock-rose'
 title: "The Definitive Guide to The Domain's Rock Rose"
-datePublished: '2016-01-12T03:39:09.477Z'
-dateModified: '2016-01-12T03:24:27.934Z'
+datePublished: '2016-01-12T03:39:09.520Z'
+dateModified: '2016-01-12T03:25:20.456Z'
 sourcePath: _posts/2016-01-12-the-definitive-guide-to-the-domains-rock-rose.md
 published: true
 inFeed: true
