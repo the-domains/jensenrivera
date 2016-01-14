@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Where you can find information about Jensen Rivera
-datePublished: '2016-01-14T05:43:24.659Z'
-dateModified: '2016-01-14T05:43:18.580Z'
+datePublished: '2016-01-14T05:45:41.096Z'
+dateModified: '2016-01-14T05:45:34.542Z'
 title: Social Profiles
 author: []
 sourcePath: _posts/2016-01-12-description.md
@@ -22,7 +22,7 @@ url: description/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43cafc92-a1ee-43ec-b78b-2e835b28ad15.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a017a8e48c3212310384a7573fb265535d2338a.jpg)
 
 Software Engineer, Father and Husband living in Austin Texas. Currently working in the video game industry on a new project with
 
