@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Where you can find information about Jensen Rivera
-datePublished: '2016-01-14T05:57:11.780Z'
-dateModified: '2016-01-14T05:57:09.096Z'
+datePublished: '2016-01-14T05:58:58.140Z'
+dateModified: '2016-01-14T05:58:54.841Z'
 title: Jensen Rivera
 author: []
 sourcePath: _posts/2016-01-12-description.md
@@ -27,7 +27,7 @@ _type: Article
 
 Software Engineer, Father and Husband living in Austin Texas. Currently working in the video game industry on a new project with [QC Games][0]
 
-Social Profiles:
+## Social Profiles:
 
 [https://www.facebook.com/jensen.rivera][1]  
 [https://www.flickr.com/photos/jensenrivera][2]  
