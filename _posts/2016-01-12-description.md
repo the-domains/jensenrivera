@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Where you can find information about Jensen Rivera
-datePublished: '2016-01-14T06:38:58.155Z'
-dateModified: '2016-01-14T06:38:54.499Z'
+datePublished: '2016-01-14T06:50:01.608Z'
+dateModified: '2016-01-14T06:49:56.101Z'
 title: Jensen Rivera
 author: []
 sourcePath: _posts/2016-01-12-description.md
@@ -22,7 +22,7 @@ url: description/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ba53ed6-0459-4990-be82-1a645d4840e5.jpg)
+![Jensen Rivera](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2392f7364bebac6bf5e1050cad174b3b0e4ae521.jpg)
 
 # Jensen Rivera
 
