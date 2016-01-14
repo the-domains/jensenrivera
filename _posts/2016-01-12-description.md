@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Where you can find information about Jensen Rivera
-datePublished: '2016-01-14T05:46:01.636Z'
-dateModified: '2016-01-14T05:45:59.240Z'
+datePublished: '2016-01-14T05:48:07.287Z'
+dateModified: '2016-01-14T05:47:59.652Z'
 title: Social Profiles
 author: []
 sourcePath: _posts/2016-01-12-description.md
@@ -24,26 +24,27 @@ _type: Article
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a017a8e48c3212310384a7573fb265535d2338a.jpg)
 
-Software Engineer, Father and Husband living in Austin Texas. Currently working in the video game industry on a new project with
+Software Engineer, Father and Husband living in Austin Texas. Currently working in the video game industry on a new project with [QC Games][0]
 
 # Social Profiles
 
-[https://www.facebook.com/jensen.rivera][0]  
-[https://www.flickr.com/photos/jensenrivera][1]  
-[https://plus.google.com/u/0/+JensenRivera][2]  
-[https://www.instagram.com/scyssion/][3]  
-[https://www.linkedin.com/in/jensenjrivera][4]  
-[https://myspace.com/jensenrivera][5]  
-[https://soundcloud.com/jensen-rivera][6]
+[https://www.facebook.com/jensen.rivera][1]  
+[https://www.flickr.com/photos/jensenrivera][2]  
+[https://plus.google.com/u/0/+JensenRivera][3]  
+[https://www.instagram.com/scyssion/][4]  
+[https://www.linkedin.com/in/jensenjrivera][5]  
+[https://myspace.com/jensenrivera][6]  
+[https://soundcloud.com/jensen-rivera][7]
 
 # 
 
 
 
-[0]: https://www.facebook.com/jensen.rivera
-[1]: https://www.flickr.com/photos/jensenrivera
-[2]: https://plus.google.com/u/0/+JensenRivera
-[3]: https://www.instagram.com/scyssion/
-[4]: https://www.linkedin.com/in/jensenjrivera
-[5]: https://myspace.com/jensenrivera
-[6]: https://soundcloud.com/jensen-rivera
+[0]: http://qcgamedev.com/wp/
+[1]: https://www.facebook.com/jensen.rivera
+[2]: https://www.flickr.com/photos/jensenrivera
+[3]: https://plus.google.com/u/0/+JensenRivera
+[4]: https://www.instagram.com/scyssion/
+[5]: https://www.linkedin.com/in/jensenjrivera
+[6]: https://myspace.com/jensenrivera
+[7]: https://soundcloud.com/jensen-rivera
