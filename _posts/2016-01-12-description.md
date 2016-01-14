@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Where you can find information about Jensen Rivera
-datePublished: '2016-01-14T05:45:41.096Z'
-dateModified: '2016-01-14T05:45:34.542Z'
+datePublished: '2016-01-14T05:46:01.636Z'
+dateModified: '2016-01-14T05:45:59.240Z'
 title: Social Profiles
 author: []
 sourcePath: _posts/2016-01-12-description.md
