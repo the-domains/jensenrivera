@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: Where you can find information about Jensen Rivera
-datePublished: '2016-01-12T06:15:32.818Z'
-dateModified: '2016-01-12T06:15:27.272Z'
+datePublished: '2016-01-14T05:12:56.810Z'
+dateModified: '2016-01-14T05:11:02.949Z'
 title: About
 author: []
 sourcePath: _posts/2016-01-12-description.md
@@ -22,6 +22,8 @@ url: description/index.html
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d9e3a03fe6a49da3aa4f0b5139a6a8fdc70bfbb.jpg)
+
 # About
 
 # 
@@ -40,7 +42,7 @@ Software Engineer, Father and Husband living in Austin Texas.  Currently working
 [https://myspace.com/jensenrivera][6]  
 [https://soundcloud.com/jensen-rivera][7]
 
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d9e3a03fe6a49da3aa4f0b5139a6a8fdc70bfbb.jpg)
+
 
 [0]: http://qcgamedev.com/wp/
 [1]: https://www.facebook.com/jensen.rivera
