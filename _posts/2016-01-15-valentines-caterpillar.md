@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Eva and I are making a Heart shaped caterpillar for Valentine's Day."
-datePublished: '2016-01-15T05:44:45.493Z'
-dateModified: '2016-01-15T05:43:43.117Z'
+datePublished: '2016-01-15T05:54:07.858Z'
+dateModified: '2016-01-15T05:53:58.791Z'
 title: "Valentine's Caterpillar"
 author: []
+sourcePath: _posts/2016-01-15-valentines-caterpillar.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-15-valentines-caterpillar.md
-published: true
 url: valentines-caterpillar/index.html
 _type: Article
 
@@ -25,30 +25,41 @@ _type: Article
 # Valentine's Caterpillar
 
 Eva and I are making a Heart shaped caterpillar for Valentine's Day.  The intent is to be able to hang this on the her door, but really it's wherever she decides she wants to hang it!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/759cde5d-d5d0-4e1c-b60b-334ec6ab2c5c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/708102ae862c82a0b67f76140967084b5b5216f7.jpg)
+
+## Step 1:
 
 I created the heart and butterfly templates for Eva and then I had her start cutting them all out herself.  She's really good at cutting around the edges.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/33187856-c46f-408f-9204-5ee9f8f299bb.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e3b4818-f5e4-47fa-b932-9afbd4b436ea.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9cfd1f6a-8f71-4d55-84fb-2acbed9556c6.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b25bb46f-ca12-4eae-9612-a2a2b8654fd6.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f36002e1-1553-4b9f-b8e4-2b0f5e27bab6.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83474368-e81e-45c6-9790-20c72832a2f5.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ca4a77e-0097-4aff-a9d7-f81f4af10a35.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a58826b1-ffc3-49c5-859a-83bf7a7d8aed.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6990111328c30458a47ef5c23ec02a157bc98c1a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/665501badd2f1aacd3aef1ab9a40afd7c10785e9.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e489a3fb60fc9a804db345727737f37a7c2f40d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0894f571490c5ece171669188e00048df2710ad7.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a47f713568bbbe3dc6b37205fc3d274d2f1388c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/43bbb0fbfaa01297f1ab21bb58c3aef443795b19.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7e3c5590d33da77dd7570c90295c2c5dd6d67fd.jpg)
+
+All cut out!
+
+## Step 2:
 
 The body is complete. We laid down the hearts in the shape we wanted and used a wooden dowel to attach them to.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1304b31c-5388-4385-82b8-cd9f99bdfa3d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ef53eae3fc7b7691ba81ac40aca9385f1352299.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/22cc70ce51b6d0ab30e194611d89e3d0e3dee769.jpg)
 
 A bit of silly time!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8d247b0-bed0-4a23-a8ab-ae6d227661de.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/385de087-7fc4-4003-a61b-fd6be17357f7.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e1cfb319dfd57d44f8d419fe406dcb8242e7f08.jpg)
+
+## Step 3:
 
 We attached Pom-poms as buttons for the caterpillar.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dee637a3-923e-4764-bfbf-af82171855c2.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb677af3-4477-4796-a9f1-2d05da702be0.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/af0e05076933b8a22f42e88d736905fb8d1b2668.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d15ffbb729cf6f10710d7f72e2109de0516456d9.jpg)
 
-Here is the final product before we hung it up. We used pipe cleaners for the ears and hung the butterflies from some twine.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f725815f-f805-4867-9104-b777bd05ba09.jpg)
+## Step 4:
+
+We used pipe cleaners for the ears and hung the butterflies from some twine. We added some heart stickers onto the butterflies for fun!
+![Here is the final product before we hung it up. ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/558ddb3bfb95fb8a8332b329ed6e2127711fdd07.jpg)
+
+Here is the final product before we hung it up. ![Eva decided to hang it on the wall!](https://s3-us-west-2.amazonaws.com/the-grid-img/p/22d523a63f078781597b107b26dc0eadf878fc34.jpg)
 
 Eva decided to hang it on the wall!
