@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Eva and I are making a Heart shaped caterpillar for Valentine's Day."
-datePublished: '2016-01-15T05:54:08.111Z'
-dateModified: '2016-01-15T05:53:58.791Z'
+datePublished: '2016-01-15T06:00:14.228Z'
+dateModified: '2016-01-15T06:00:10.376Z'
 title: "Valentine's Caterpillar"
 author: []
 sourcePath: _posts/2016-01-15-valentines-caterpillar.md
@@ -36,13 +36,13 @@ I created the heart and butterfly templates for Eva and then I had her start cut
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0894f571490c5ece171669188e00048df2710ad7.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a47f713568bbbe3dc6b37205fc3d274d2f1388c.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/43bbb0fbfaa01297f1ab21bb58c3aef443795b19.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7e3c5590d33da77dd7570c90295c2c5dd6d67fd.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1c08c1e150ddd4ff19b2f9a611d3c0dd5e647ba.jpg)
 
 All cut out!
 
 ## Step 2:
 
-The body is complete. We laid down the hearts in the shape we wanted and used a wooden dowel to attach them to.
+The body is complete. We laid down the hearts in the shape we wanted and used a wooden dowel to attach them.  Simply apply glue to the wooden dowel to do the trick.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ef53eae3fc7b7691ba81ac40aca9385f1352299.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/22cc70ce51b6d0ab30e194611d89e3d0e3dee769.jpg)
 
@@ -58,8 +58,8 @@ We attached Pom-poms as buttons for the caterpillar.
 ## Step 4:
 
 We used pipe cleaners for the ears and hung the butterflies from some twine. We added some heart stickers onto the butterflies for fun!
-![Here is the final product before we hung it up. ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/558ddb3bfb95fb8a8332b329ed6e2127711fdd07.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/558ddb3bfb95fb8a8332b329ed6e2127711fdd07.jpg)
 
-Here is the final product before we hung it up. ![Eva decided to hang it on the wall!](https://s3-us-west-2.amazonaws.com/the-grid-img/p/22d523a63f078781597b107b26dc0eadf878fc34.jpg)
+Here is the final product before we hung it up. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/22d523a63f078781597b107b26dc0eadf878fc34.jpg)
 
 Eva decided to hang it on the wall!
