@@ -1,7 +1,18 @@
+layout_spectrum: 0.9749456816352904
+typography_spectrum: 0.4982185997068882
+color:
+  brandColors:
+    - '#ffffff'
+    - '#030303'
+    - '#577dc4'
+    - '#1c2b4c'
+    - '#8ba3e3'
+  brandStrength: 0.0625
+  lightness: 0.3125
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 name: jensenrivera
 favicon: null
-layout_spectrum: 0.63035
-typography_spectrum: 0.49017
 title: null
 cta:
   domain: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#030303'
-    - '#577dc4'
-    - '#1c2b4c'
-    - '#8ba3e3'
-  brandStrength: 0.0625
-  lightness: 0.3125
-  saturation: 0.3125
-  rhythmicContrast: 0.5
 purpose: []
